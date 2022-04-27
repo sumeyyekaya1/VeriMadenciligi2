@@ -1,0 +1,10 @@
+C:\Users\sumey\OneDrive\Masaüstü\Veri_Odev\Veri_Odev\Veri_Odev\bin\Debug\Veri_Odev.exe.config
+C:\Users\sumey\OneDrive\Masaüstü\Veri_Odev\Veri_Odev\Veri_Odev\bin\Debug\Veri_Odev.exe
+C:\Users\sumey\OneDrive\Masaüstü\Veri_Odev\Veri_Odev\Veri_Odev\bin\Debug\Veri_Odev.pdb
+C:\Users\sumey\OneDrive\Masaüstü\Veri_Odev\Veri_Odev\Veri_Odev\obj\Debug\Veri_Odev.csproj.AssemblyReference.cache
+C:\Users\sumey\OneDrive\Masaüstü\Veri_Odev\Veri_Odev\Veri_Odev\obj\Debug\Veri_Odev.Form1.resources
+C:\Users\sumey\OneDrive\Masaüstü\Veri_Odev\Veri_Odev\Veri_Odev\obj\Debug\Veri_Odev.Properties.Resources.resources
+C:\Users\sumey\OneDrive\Masaüstü\Veri_Odev\Veri_Odev\Veri_Odev\obj\Debug\Veri_Odev.csproj.GenerateResource.cache
+C:\Users\sumey\OneDrive\Masaüstü\Veri_Odev\Veri_Odev\Veri_Odev\obj\Debug\Veri_Odev.csproj.CoreCompileInputs.cache
+C:\Users\sumey\OneDrive\Masaüstü\Veri_Odev\Veri_Odev\Veri_Odev\obj\Debug\Veri_Odev.exe
+C:\Users\sumey\OneDrive\Masaüstü\Veri_Odev\Veri_Odev\Veri_Odev\obj\Debug\Veri_Odev.pdb
